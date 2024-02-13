@@ -9,7 +9,6 @@ Este repositorio contiene el código y los recursos utilizados para Análisis y 
 - **[Instalación](#instalación)**
 - **[Uso](#uso)**
 - **[Contribución](#contribución)**
-- **[Licencia](#licencia)**
 
 ## Introducción
 
@@ -60,17 +59,17 @@ Para ejecutar un script en particular en Google Colab, carga el script en tu ent
     from google.colab import drive
     drive.mount('/content/drive')
 
-# Luego, cambia al directorio donde se encuentra tu código
-%cd /content/drive/MyDrive/ruta/a/este/repositorio
+### Luego, cambia al directorio donde se encuentra tu código
+    %cd /content/drive/MyDrive/ruta/a/este/repositorio
 
-# Y ejecuta el script
-!python nombre_del_script.py
+### Y ejecuta el script
+    !python nombre_del_script.py
 
 ## Contribución
 ¡Las contribuciones son bienvenidas! Si encuentras errores, tienes sugerencias de mejoras o deseas agregar nuevas técnicas, por favor abre un problema o envía una solicitud de extracción.
 
 Antes de contribuir, asegúrate de revisar nuestra guía de contribución.
 
-Creado por Jessica Falcón - 12/02/2024
+###Creado por Jessica Falcón - 12/02/2024
 
 
