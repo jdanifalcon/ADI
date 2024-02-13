@@ -70,6 +70,6 @@ Para ejecutar un script en particular en Google Colab, carga el script en tu ent
 
 Antes de contribuir, asegúrate de revisar nuestra guía de contribución.
 
-###Creado por Jessica Falcón - 12/02/2024
+### Creado por Jessica Falcón - 12/02/2024
 
 
